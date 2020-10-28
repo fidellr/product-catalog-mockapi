@@ -1,0 +1,277 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product_name": "Long sleeve flannel",
+      "gender": "Men",
+      "image_url": "https://lp2.hm.com/hmgoepprod?set=width[800],quality[80],options[limit]&source=url[https://www2.hm.com/content/dam/men_s02/september_2020/3262j/3262J-1x1-check-shirts-for-men.jpg]&scale=width[global.width],height[15000],options[global.options]&sink=format[jpg],quality[global.quality]",
+      "color": "White",
+      "stock": 20,
+      "sold": 12,
+      "price": 225000,
+      "variance": [
+        {
+          "id": "var-1",
+          "color": "Dark Red",
+          "image_url": "https://images.boardriders.com/global/billabong-products/all/default/hi-res/9507219_billabong,wg_blk_frt1.jpg"
+        },
+        {
+          "id": "var-2",
+          "color": "Light Red",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRQszNdGiqW52k5VpvaZB0jlEyUDcvHCzx5Q&usqp=CAU"
+        },
+        {
+          "id": "var-3",
+          "color": "Light Yellow",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiKEQG11ltK8jARIzz_QsGClApCd_OuTsVBA&usqp=CAU"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "product_name": "Wrinkle-Free Classic Oxford Cloth Shirt",
+      "gender": "Men",
+      "image_url": "https://cdni.llbean.net/is/image/wim/215176_0_44?hei=1095&wid=950&resMode=sharp2&defaultImage=llbstage/A0211793_2",
+      "color": "Light Blue",
+      "stock": 55,
+      "sold": 12,
+      "price": 450000,
+      "variance": [
+        {
+          "id": "var-1",
+          "color": "White",
+          "image_url": "https://a5e8126a499f8a963166-f72e9078d72b8c998606fd6e0319b679.ssl.cf5.rackcdn.com/images/variant/large/ultraclub_8972_white.jpg"
+        },
+        {
+          "id": "var-2",
+          "color": "Black",
+          "image_url": "https://logoshirtsdirect.com/wp-content/uploads/2015/06/S659_black_model_front_122014.jpg"
+        },
+        {
+          "id": "var-3",
+          "color": "Dark Blue",
+          "image_url": "https://www.simonjersey.com/images/essentials-mens-short-sleeve-shirt-dark-blue-p1862-170751_zoom.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "product_name": "Timberland Pro Polo Shirt",
+      "gender": "Men",
+      "image_url": "https://images.timberland.com/is/image/timberland/A1P16434-HERO?$PRO-PDP-FULL-IMAGE$",
+      "color": "Black",
+      "stock": 30,
+      "sold": 8,
+      "price": 600000,
+      "variance": [
+        {
+          "id": "var-1",
+          "color": "Dark Gray",
+          "image_url": "https://choosmeinstyle.com/wp-content/uploads/2019/03/stretch-shirt.jpg"
+        },
+        {
+          "id": "var-2",
+          "color": "Brown",
+          "image_url": "https://i.pinimg.com/474x/99/ce/87/99ce87ed2b606ac17684875c9e0343e9.jpg"
+        },
+        {
+          "id": "var-3",
+          "color": "Green",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSAgiYcCtZD4uDEnRDUmmnamBlrVpATmGo0vQ&usqp=CAU"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "product_name": "MEN Soft Touch Crew Neck Long Sleeve T-Shirt",
+      "gender": "Men",
+      "image_url": "https://d15udtvdbbfasl.cloudfront.net/catalog/product/large_image/00_418696.jpg",
+      "color": "White",
+      "stock": 100,
+      "sold": 42,
+      "price": 300000,
+      "variance": [
+        {
+          "id": "var-1",
+          "color": "Black",
+          "image_url": "https://www.firelabel.co.uk/Assets/User/11420.jpg"
+        },
+        {
+          "id": "var-2",
+          "color": "Dark Brown",
+          "image_url": "https://www.hthughes.com/wp-content/uploads/SOLS-Monarch-Long-Sleeve-T-Shirt-11420-1.jpg"
+        },
+        {
+          "id": "var-3",
+          "color": "Blue",
+          "image_url": "https://i5.walmartimages.com/asr/cbbc0153-3b48-4515-ad1f-16ee4f51164f_1.eae7610d000363101438580f4c86dd93.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "product_name": "River Island slim fit long sleeve hoodie",
+      "gender": "Men",
+      "image_url": "https://images.riverisland.com/is/image/RiverIsland/black-slim-fit-long-sleeve-hoodie_313416_main?$productImageLarge$",
+      "color": "Black",
+      "stock": 80,
+      "sold": 25,
+      "price": 440000,
+      "variance": [
+        {
+          "id": "var-1",
+          "color": "Light Beige",
+          "image_url": "https://a5e8126a499f8a963166-f72e9078d72b8c998606fd6e0319b679.ssl.cf5.rackcdn.com/images/variant/sides/large/next-level_9303_natural_front.jpg"
+        },
+        {
+          "id": "var-2",
+          "color": "Gray",
+          "image_url": "https://d1l2kcmc130e06.cloudfront.net/1/images/model_item/jerzees-4997m.jpg"
+        },
+        {
+          "id": "var-3",
+          "color": "Dark Green",
+          "image_url": "https://cdn.mysagestore.com/867ebe4acefa420750007c6a34158a2d/contents/JZ4997MR/JZ4997MR.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "product_name": "Heavyweight Cotton Short Sleeve Crew Neck T-Shirt",
+      "gender": "Men",
+      "image_url": "https://shopproclub.com/media/catalog/product/cache/9537d43b9bc5b6785a205b28a3ee3fc1/1/0/101.snowwhite.pt04_1_1.jpg",
+      "color": "White",
+      "stock": 120,
+      "sold": 55,
+      "price": 150000,
+      "variance": [
+        {
+          "id": "var-1",
+          "color": "Light Brown",
+          "image_url": "https://www.proclubinc.com/images/product/detail/101.KHAKI.MAIN.jpg"
+        },
+        {
+          "id": "var-2",
+          "color": "Gray",
+          "image_url": "https://i5.walmartimages.com/asr/418159ca-2cca-4d40-96ec-4ac96f2079ad_1.1b947262af30f96cba39c75e50f18760.jpeg"
+        },
+        {
+          "id": "var-3",
+          "color": "Dark Gray",
+          "image_url": "https://i5.walmartimages.com/asr/8d00ef4f-741c-4244-9ce9-caa35177948a_1.1368abed2028df6dc51881005b9ee968.jpeg?odnWidth=612&odnHeight=612&odnBg=ffffff"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "product_name": "Erigo Chino Pants Argus Khaki",
+      "gender": "Men",
+      "image_url": "https://cf.shopee.co.id/file/93ea28a16def00979d90d801d0acdeb5",
+      "color": "Beige",
+      "stock": 80,
+      "sold": 10,
+      "price": 400000,
+      "variance": [
+        {
+          "id": "var-1",
+          "color": "Dark Gray",
+          "image_url": "https://dynamic.zacdn.com/H-ic77BPYVIYExEKw6tYsZ0WtTw=/fit-in/346x500/filters:quality(90):fill(ffffff)/http://static.id.zalora.net/p/lc-waikiki-3149-7689832-1.jpg"
+        },
+        {
+          "id": "var-2",
+          "color": "Dark Beige",
+          "image_url": "https://dynamic.zacdn.com/PxzJl0X3t0WwwItQbrrJkWJ_Z-s=/fit-in/346x500/filters:quality(90):fill(ffffff)/http://static.id.zalora.net/p/minarno-3365-8462421-1.jpg"
+        },
+        {
+          "id": "var-3",
+          "color": "Gray",
+          "image_url": "https://www.armaniexchange.com/46/46537654do_13_f.jpg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "product_name": "Harrington Jacket",
+      "gender": "Men",
+      "image_url": "https://i.pinimg.com/originals/a3/ae/bc/a3aebcfc9ce7f164e292d049f0e342ad.jpg",
+      "color": "Dark Green",
+      "stock": 50,
+      "sold": 22,
+      "price": 770000,
+      "variance": [
+        {
+          "id": "var-1",
+          "color": "Black",
+          "image_url": "https://cdn.suitdirect.co.uk/upload/siteimages/xlarge/0061468_170_b.jpg"
+        },
+        {
+          "id": "var-2",
+          "color": "Beige",
+          "image_url": "https://images.asos-media.com/products/polo-ralph-lauren-harrington-jacket/2737653-4?$XXL$&wid=513&fit=constrain"
+        },
+        {
+          "id": "var-3",
+          "color": "Dark Blue",
+          "image_url": "https://images.burton.co.uk/i/Burton/BR06H10QNVY_M_1.jpg?$w700$&qlt=80"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "product_name": "Business Casual Cardigan Blazer",
+      "gender": "Men",
+      "image_url": "https://i.pinimg.com/originals/0e/65/76/0e65768969d9947f1131e9819ef1b579.jpg",
+      "color": "Dark Green",
+      "stock": 70,
+      "sold": 33,
+      "price": 500000,
+      "variance": [
+        {
+          "id": "var-1",
+          "color": "Gray",
+          "image_url": "https://i.pinimg.com/originals/0a/a7/92/0aa792bfd89ac50309a32b9b5b33a068.jpg"
+        },
+        {
+          "id": "var-2",
+          "color": "Dark Blue",
+          "image_url": "https://i.pinimg.com/originals/62/8f/20/628f204b4f201406b89644511bf11b9d.jpg"
+        },
+        {
+          "id": "var-3",
+          "color": "Black",
+          "image_url": "https://ae01.alicdn.com/kf/HTB1TI0bd3mTBuNjy1Xbq6yMrVXav.jpg"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "product_name": "Cargo Pants",
+      "gender": "Men",
+      "image_url": "https://dynamic.zacdn.com/4F-V8J-up7BiJZwgrFUbeKNlaEE=/fit-in/346x500/filters:quality(90):fill(ffffff)/http://static.id.zalora.net/p/tolliver-9472-1967202-1.jpg",
+      "color": "Beige",
+      "stock": 50,
+      "sold": 21,
+      "price": 199000,
+      "variance": [
+        {
+          "id": "var-1",
+          "color": "White",
+          "image_url": "https://dynamic.zacdn.com/slJaaBmhnzvHNPz1J79yJdwgOeY=/fit-in/346x500/filters:quality(90):fill(ffffff)/http://static.id.zalora.net/p/tolliver-0732-3867202-1.jpg"
+        },
+        {
+          "id": "var-2",
+          "color": "Dark Beige",
+          "image_url": "https://dynamic.zacdn.com/xHLv8okEdF2QJuo1OHaxnp8QA2M=/fit-in/346x500/filters:quality(90):fill(ffffff)/http://static.id.zalora.net/p/mgee-8509-5165012-1.jpg"
+        },
+        {
+          "id": "var-3",
+          "color": "Dark Green",
+          "image_url": "https://dynamic.zacdn.com/y6UYjdwnMLwW2-6ZNVLYSTpQC3M=/fit-in/346x500/filters:quality(90):fill(ffffff)/http://static.id.zalora.net/p/tolliver-4882-0249142-1.jpg"
+        }
+      ]
+    }
+  ],
+  "profile": {
+    "name": "fidel"
+  }
+}
